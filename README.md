@@ -3,6 +3,7 @@
 
 
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 I'm Neha , Full Stack Developer
 
@@ -44,10 +45,6 @@ Through continuous self-study I have been building a solid foundation in both fr
 <div align="center">
  <img src="https://readme-jokes.vercel.app/api"
  </div>
-
-
-![Neha's GitHub stats](https://pagespeed-insights.herokuapp.com?url=your_website_url)
-
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
