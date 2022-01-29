@@ -9,9 +9,9 @@ I'm Neha , Full Stack Developer
 
 Through continuous self-study I have been building a solid foundation in both front-end and back-end technologies, focusing on Front-end Developer.
 
-🔭 I’m working on improving my techskills and becoming better at coding
-🌱 I continue to learn how to combine powerful visualization components and a data-driven approach to DOM manipulation. 
-👯 I’m looking for new and exciting opportunities to use my previous experience and newly acquired skills
-🥅 2022 Goal: Find a hybrid role in Web Development
-💬 Ask me about anything
-📫 Please email nehayadav903@gmail to reach me
+🔭 I’m working on improving my techskills and becoming better at coding<br/>
+🌱 I continue to learn how to combine powerful visualization components and a data-driven approach to DOM manipulation.<br/> 
+👯 I’m looking for new and exciting opportunities to use my previous experience and newly acquired skills<br/>
+🥅 2022 Goal: Find a hybrid role in Web Development<br/>
+💬 Ask me about anything<br/>
+📫 Please email nehayadav903@gmail to reach me<br/>
