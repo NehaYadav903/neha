@@ -8,7 +8,7 @@ I'm Neha , Full Stack Developer
 
  This year I have completed a full-stack Web Development Bootcamp Program at Lighthouse Labs, took time to practice and now I am ready for my next step!
 
-Through continuous self-study I have been building a solid foundation in both front-end and back-end technologies, focusing on Front-end Developer.
+Through continuous self-study I have been building a solid foundation in both front-end and back-end technologies, focusing on Front-end Developer and Full stack developer.
 
 🔭 I’m working on improving my techskills and becoming better at coding<br/>
 🌱 I continue to learn how to combine powerful visualization components and a data-driven approach to DOM manipulation.<br/> 
@@ -39,10 +39,6 @@ Through continuous self-study I have been building a solid foundation in both fr
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-
-
-
-
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -50,11 +46,6 @@ Through continuous self-study I have been building a solid foundation in both fr
 
 ![Neha's GitHub stats](https://pagespeed-insights.herokuapp.com?url=your_website_url)
 
- ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehayadav&show_icons=true&theme=radical) 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nehayadav&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehayadav&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nehayadav) 
  
