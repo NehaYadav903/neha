@@ -47,5 +47,10 @@ Through continuous self-study I have been building a solid foundation in both fr
 ![Neha's GitHub stats](https://pagespeed-insights.herokuapp.com?url=your_website_url)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nehayadav) 
- 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
+</div>
+
+ <div align="right">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=nehayadav"
+ </div>
