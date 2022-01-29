@@ -41,7 +41,9 @@ Through continuous self-study I have been building a solid foundation in both fr
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
+ <img src="https://readme-jokes.vercel.app/api"
+ </div>
 
 
 ![Neha's GitHub stats](https://pagespeed-insights.herokuapp.com?url=your_website_url)
@@ -49,8 +51,8 @@ Through continuous self-study I have been building a solid foundation in both fr
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
-</div>
+</div><br/>
 
- <div align="right">
+ <div align="center">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=nehayadav"
  </div>
